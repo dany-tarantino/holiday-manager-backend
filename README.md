@@ -9,10 +9,10 @@ Enter a country code (ISO-2 format) and year to find holidays.
 User-Friendly Interface
 
 A clean, colorful, and easy-to-use design with Tailwind CSS.
+
 API Integration
 
 Fetches holiday data from the Calendarific API.
-Error Handling
 
 Manages invalid inputs, missing API keys, and empty responses smoothly.
 Caching for Performance
